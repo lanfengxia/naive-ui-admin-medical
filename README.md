@@ -10,49 +10,6 @@
 🌐 持续更新的实用性页面模板和交互设计，简化页面构建
 
 
-## 🎥 预览
-- [naive-ui-admin](https://gratis.naiveadmin.com)
-
-账号：admin，密码：123456（随意）
-
-
-## 🚀 Naive Admin - 开箱即用的企业级前后端框架 `商业版本`
-
-> **✨ 多版本选择 · 四年持续迭代**  
-> 配套前后端支持 Java/Php 语言，支持单体和微服务多租户架构  
-> [详情→官网](https://www.naiveadmin.com) | [更新日志](https://www.yuque.com/u5825/zaqu0e)
-
----
-
-## 🔥 为什么选择 NaiveAdmin 商业版？
-- **省时间**：内置丰富扩展组件与业务模板，不写一行样板代码即可开始业务开发
-- **经实战**：已落地电网、跨境 ERP、SaaS 等 30+ 场景 
-- **可扩展**：插件式菜单 / 按钮 / 数据权限，新增业务模块「0 侵入」
-
----
-
-## 🖥️ 纯前端版本
-
-| 版本 | 技术栈 | 配套后端 | 预览地址 |
-|-----|-------|---------|-------------|
-| **🆕 Naive UI Max** | Vu3 + Ts + NaiveUI |  否 | [https://max.naiveadmin.com](https://max.naiveadmin.com) |
-| **Naive UI Plus** | Vu3 + Ts + NaiveUI |  支持Java/PHP | [https://plus.naiveadmin.com](https://plus.naiveadmin.com) |
-
-## 🔌 前后端版本
-
-| 版本 | 技术栈     | 预览地址                                          |
-|------|------------------|--------------------------------------------------------------|
-| **🆕Naive UI Max** | Vu3 + Ts + NaiveUI  |  [https://max-full.naiveadmin.com](https://max-full.naiveadmin.com)    |
-| **Naive UI Plus** | Vu3 + Ts + NaiveUI  |  [https://plus-full.naiveadmin.com](https://plus-full.naiveadmin.com)    |
-
-## 🏢 多租户版本
-
-| 版本           | 技术栈             | 适用场景           | 预览地址                                        |
-|-----------------------------|-----------------------------|----------------|-------------------------------------------|
-| **Vue3**  | Vu3 + Ts + NaiveUI + Java    | 构建企业级 Saas 化系统 | [https://tenant.naiveadmin.com](https://tenant.naiveadmin.com)   |
-| **React** | React + Ts + Ant + Java  | 构建企业级 Saas 化系统       | [https://compose.warden.vip](https://compose.warden.vip)   |
-
-
 ## 📚 文档
 
 [开源版本文档](https://docs.naiveadmin.com)
@@ -74,7 +31,7 @@
 - 获取项目代码
 
 ```bash
-git clone https://github.com/jekip/naive-ui-admin.git
+git clone https://github.com/jekip/naive-ui-admin-medical.git
 ```
 
 - 安装依赖
@@ -139,22 +96,6 @@ pnpm build
 
 支持现代浏览器, 不支持 IE
 
-| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt=" Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>IE | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt=" Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari |
-| :-: | :-: | :-: | :-: | :-: |
-| not support | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
 
-## 👥 维护者
-[@Ah jung](https://github.com/jekip)
 
-## 💬 交流
 
-有关 `Naive Ui Admin` 的使用或其他问题，可以加入讨论群交流问题
-
-QQ1群：328347666 （已满）
-QQ2群：741353560
-
-## 💖 赞助
-#### 如果项目有帮到你，不妨请作者喝一杯咖啡吧！
-
-![donate](https://assets.naiveadmin.com/assets/images/sponsor.png)
-[Paypal Me](https://www.paypal.com/paypalme/majunping)
